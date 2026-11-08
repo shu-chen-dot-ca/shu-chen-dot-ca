@@ -1,7 +1,7 @@
 Hi, I'm Shu.
 
 <!-- merged-prs:start -->
-| Repository | Stars | Merged PR |
+| 🚀 Repository | ⭐ Stars | 🔀 Merged PR |
 | --- | --- | --- |
 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 15,569 | [#4754](https://github.com/The-PR-Agent/pr-agent/pull/4754)<br>[#4745](https://github.com/The-PR-Agent/pr-agent/pull/4745) |
 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 5,789 | [#5470](https://github.com/maziyarpanahi/openmed/pull/5470) |
