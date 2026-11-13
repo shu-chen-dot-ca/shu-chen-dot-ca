@@ -3,7 +3,7 @@ Hi, I'm Shu.
 <!-- merged-prs:start -->
 | Repository 🚀 | Stars 🌟 | Merged PR | Lines changed |
 | --- | --- | --- | --- |
-| [kestra-io/kestra](https://github.com/kestra-io/kestra) 🚀 | 30,220 🌟 | [#22558](https://github.com/kestra-io/kestra/pull/22558)<br>[#22428](https://github.com/kestra-io/kestra/pull/22428) | $`\color{green}\textsf{+9}`$ $`\color{red}\textsf{-15}`$<br>$`\color{green}\textsf{+98}`$ $`\color{red}\textsf{-1}`$ |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) 🚀 | 30,221 🌟 | [#22558](https://github.com/kestra-io/kestra/pull/22558)<br>[#22428](https://github.com/kestra-io/kestra/pull/22428) | $`\color{green}\textsf{+9}`$ $`\color{red}\textsf{-15}`$<br>$`\color{green}\textsf{+98}`$ $`\color{red}\textsf{-1}`$ |
 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) 🚀 | 18,479 🌟 | [#8310](https://github.com/lidge-jun/opencodex/pull/8310) | $`\color{green}\textsf{+27}`$ $`\color{red}\textsf{-4}`$ |
 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) 🚀 | 16,070 🌟 | [#4754](https://github.com/The-PR-Agent/pr-agent/pull/4754)<br>[#4745](https://github.com/The-PR-Agent/pr-agent/pull/4745) | $`\color{green}\textsf{+38}`$ $`\color{red}\textsf{-5}`$<br>$`\color{green}\textsf{+11}`$ $`\color{red}\textsf{-2}`$ |
 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) 🚀 | 10,523 🌟 | [#2382](https://github.com/MakazhanAlpamys/Soup/pull/2382) | $`\color{green}\textsf{+213}`$ $`\color{red}\textsf{-23}`$ |
