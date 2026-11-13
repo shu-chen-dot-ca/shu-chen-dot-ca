@@ -1,11 +1,13 @@
 Hi, I'm Shu.
 
 <!-- merged-prs:start -->
+Seraph merged PRs: 55 in 24 repositories
+
 | Repository 🚀 | Stars 🌟 | Merged PR | Lines changed |
 | --- | --- | --- | --- |
 | [kestra-io/kestra](https://github.com/kestra-io/kestra) 🚀 | 30,221 🌟 | [#22558](https://github.com/kestra-io/kestra/pull/22558)<br>[#22428](https://github.com/kestra-io/kestra/pull/22428) | $`\color{green}\textsf{+9}`$ $`\color{red}\textsf{-15}`$<br>$`\color{green}\textsf{+98}`$ $`\color{red}\textsf{-1}`$ |
 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) 🚀 | 18,479 🌟 | [#8310](https://github.com/lidge-jun/opencodex/pull/8310) | $`\color{green}\textsf{+27}`$ $`\color{red}\textsf{-4}`$ |
-| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) 🚀 | 16,070 🌟 | [#4754](https://github.com/The-PR-Agent/pr-agent/pull/4754)<br>[#4745](https://github.com/The-PR-Agent/pr-agent/pull/4745) | $`\color{green}\textsf{+38}`$ $`\color{red}\textsf{-5}`$<br>$`\color{green}\textsf{+11}`$ $`\color{red}\textsf{-2}`$ |
+| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) 🚀 | 16,072 🌟 | [#4754](https://github.com/The-PR-Agent/pr-agent/pull/4754)<br>[#4745](https://github.com/The-PR-Agent/pr-agent/pull/4745) | $`\color{green}\textsf{+38}`$ $`\color{red}\textsf{-5}`$<br>$`\color{green}\textsf{+11}`$ $`\color{red}\textsf{-2}`$ |
 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) 🚀 | 10,523 🌟 | [#2382](https://github.com/MakazhanAlpamys/Soup/pull/2382) | $`\color{green}\textsf{+213}`$ $`\color{red}\textsf{-23}`$ |
 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) 🚀 | 9,572 🌟 | [#8468](https://github.com/LearningCircuit/local-deep-research/pull/8468) | $`\color{green}\textsf{+111}`$ $`\color{red}\textsf{-29}`$ |
 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) 🚀 | 5,804 🌟 | [#5470](https://github.com/maziyarpanahi/openmed/pull/5470) | $`\color{green}\textsf{+196}`$ $`\color{red}\textsf{-0}`$ |
@@ -24,7 +26,7 @@ Hi, I'm Shu.
 | [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) 🚀 | 1,474 🌟 | [#1653](https://github.com/bulwarkmail/webmail/pull/1653) | $`\color{green}\textsf{+42}`$ $`\color{red}\textsf{-1}`$ |
 | [erikjuhani/basalt](https://github.com/erikjuhani/basalt) 🚀 | 1,392 🌟 | [#784](https://github.com/erikjuhani/basalt/pull/784) | $`\color{green}\textsf{+41}`$ $`\color{red}\textsf{-2}`$ |
 | [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) 🚀 | 1,320 🌟 | [#1386](https://github.com/ENTERPILOT/GoModel/pull/1386) | $`\color{green}\textsf{+771}`$ $`\color{red}\textsf{-30}`$ |
-| [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) 🚀 | 1,301 🌟 | [#1156](https://github.com/tomasz-tomczyk/crit/pull/1156) | $`\color{green}\textsf{+420}`$ $`\color{red}\textsf{-0}`$ |
+| [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) 🚀 | 1,302 🌟 | [#1156](https://github.com/tomasz-tomczyk/crit/pull/1156) | $`\color{green}\textsf{+420}`$ $`\color{red}\textsf{-0}`$ |
 | [reticlehq/reticle](https://github.com/reticlehq/reticle) 🚀 | 1,271 🌟 | [#2249](https://github.com/reticlehq/reticle/pull/2249)<br>[#2248](https://github.com/reticlehq/reticle/pull/2248)<br>[#2223](https://github.com/reticlehq/reticle/pull/2223)<br>[#2224](https://github.com/reticlehq/reticle/pull/2224)<br>[#2222](https://github.com/reticlehq/reticle/pull/2222)<br>[#2142](https://github.com/reticlehq/reticle/pull/2142)<br>[#2105](https://github.com/reticlehq/reticle/pull/2105) | $`\color{green}\textsf{+411}`$ $`\color{red}\textsf{-25}`$<br>$`\color{green}\textsf{+926}`$ $`\color{red}\textsf{-42}`$<br>$`\color{green}\textsf{+758}`$ $`\color{red}\textsf{-37}`$<br>$`\color{green}\textsf{+520}`$ $`\color{red}\textsf{-111}`$<br>$`\color{green}\textsf{+140}`$ $`\color{red}\textsf{-8}`$<br>$`\color{green}\textsf{+861}`$ $`\color{red}\textsf{-24}`$<br>$`\color{green}\textsf{+149}`$ $`\color{red}\textsf{-43}`$ |
 | [gdt050579/AppCUI-rs](https://github.com/gdt050579/AppCUI-rs) 🚀 | 408 🌟 | [#288](https://github.com/gdt050579/AppCUI-rs/pull/288) | $`\color{green}\textsf{+98}`$ $`\color{red}\textsf{-0}`$ |
 <!-- merged-prs:end -->
