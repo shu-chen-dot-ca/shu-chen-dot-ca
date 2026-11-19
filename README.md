@@ -27,7 +27,7 @@ Seraph merged PRs: 111 in 37 repositories
 | [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) 🚀 | 4,137 🌟 | [#5702](https://github.com/pipeshub-ai/pipeshub-ai/pull/5702) | $`\color{green}\textsf{+124}`$ $`\color{red}\textsf{-5}`$ |
 | [linq2db/linq2db](https://github.com/linq2db/linq2db) 🚀 | 3,332 🌟 | [#6313](https://github.com/linq2db/linq2db/pull/6313) | $`\color{green}\textsf{+44}`$ $`\color{red}\textsf{-7}`$ |
 | [vortex-data/vortex](https://github.com/vortex-data/vortex) 🚀 | 3,331 🌟 | [#11434](https://github.com/vortex-data/vortex/pull/11434) | $`\color{green}\textsf{+107}`$ $`\color{red}\textsf{-2}`$ |
-| [stephenberry/glaze](https://github.com/stephenberry/glaze) 🚀 | 3,116 🌟 | [#3098](https://github.com/stephenberry/glaze/pull/3098) | $`\color{green}\textsf{+132}`$ $`\color{red}\textsf{-54}`$ |
+| [stephenberry/glaze](https://github.com/stephenberry/glaze) 🚀 | 3,115 🌟 | [#3098](https://github.com/stephenberry/glaze/pull/3098) | $`\color{green}\textsf{+132}`$ $`\color{red}\textsf{-54}`$ |
 | [croffasia/itsaplan](https://github.com/croffasia/itsaplan) 🚀 | 2,415 🌟 | [#935](https://github.com/croffasia/itsaplan/pull/935)<br>[#874](https://github.com/croffasia/itsaplan/pull/874) | $`\color{green}\textsf{+90}`$ $`\color{red}\textsf{-9}`$<br>$`\color{green}\textsf{+116}`$ $`\color{red}\textsf{-0}`$ |
 | [stacklok/toolhive](https://github.com/stacklok/toolhive) 🚀 | 2,343 🌟 | [#7133](https://github.com/stacklok/toolhive/pull/7133) | $`\color{green}\textsf{+137}`$ $`\color{red}\textsf{-14}`$ |
 | [mozilla/neqo](https://github.com/mozilla/neqo) 🚀 | 2,255 🌟 | [#4376](https://github.com/mozilla/neqo/pull/4376) | $`\color{green}\textsf{+1}`$ $`\color{red}\textsf{-2}`$ |
