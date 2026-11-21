@@ -5,7 +5,7 @@ Seraph merged PRs: 119 in 38 repositories
 
 | Repository 🚀 | Stars 🌟 | Merged PR | Lines changed |
 | --- | --- | --- | --- |
-| [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) 🚀 | 38,043 🌟 | [#8704](https://github.com/agentscope-ai/QwenPaw/pull/8704) | $`\color{green}\textsf{+1}`$ $`\color{red}\textsf{-1}`$ |
+| [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) 🚀 | 38,044 🌟 | [#8704](https://github.com/agentscope-ai/QwenPaw/pull/8704) | $`\color{green}\textsf{+1}`$ $`\color{red}\textsf{-1}`$ |
 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) 🚀 | 36,388 🌟 | [#4102](https://github.com/agentscope-ai/agentscope/pull/4102) | $`\color{green}\textsf{+137}`$ $`\color{red}\textsf{-2}`$ |
 | [kestra-io/kestra](https://github.com/kestra-io/kestra) 🚀 | 30,299 🌟 | [#22703](https://github.com/kestra-io/kestra/pull/22703)<br>[#22558](https://github.com/kestra-io/kestra/pull/22558)<br>[#22428](https://github.com/kestra-io/kestra/pull/22428) | $`\color{green}\textsf{+27}`$ $`\color{red}\textsf{-2}`$<br>$`\color{green}\textsf{+9}`$ $`\color{red}\textsf{-15}`$<br>$`\color{green}\textsf{+98}`$ $`\color{red}\textsf{-1}`$ |
 | [xerj-org/xerj](https://github.com/xerj-org/xerj) 🚀 | 19,091 🌟 | [#3255](https://github.com/xerj-org/xerj/pull/3255)<br>[#3062](https://github.com/xerj-org/xerj/pull/3062)<br>[#3112](https://github.com/xerj-org/xerj/pull/3112) | $`\color{green}\textsf{+116}`$ $`\color{red}\textsf{-4}`$<br>$`\color{green}\textsf{+293}`$ $`\color{red}\textsf{-15}`$<br>$`\color{green}\textsf{+2}`$ $`\color{red}\textsf{-1}`$ |
