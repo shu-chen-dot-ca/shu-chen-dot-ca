@@ -5,7 +5,7 @@ Hi, I'm Shu.
 
 | Repository 🚀 | Stars 🌟 | Merged PR | Lines changed |
 | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) 🚀 | 395,236 🌟 | [#204881](https://github.com/openclaw/openclaw/pull/204881)<br>[#204900](https://github.com/openclaw/openclaw/pull/204900) | $`\color{green}\textsf{+59}`$ $`\color{red}\textsf{-22}`$<br>$`\color{green}\textsf{+52}`$ $`\color{red}\textsf{-2}`$ |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) 🚀 | 395,235 🌟 | [#204881](https://github.com/openclaw/openclaw/pull/204881)<br>[#204900](https://github.com/openclaw/openclaw/pull/204900) | $`\color{green}\textsf{+59}`$ $`\color{red}\textsf{-22}`$<br>$`\color{green}\textsf{+52}`$ $`\color{red}\textsf{-2}`$ |
 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) 🚀 | 36,728 🌟 | [#4102](https://github.com/agentscope-ai/agentscope/pull/4102) | $`\color{green}\textsf{+137}`$ $`\color{red}\textsf{-2}`$ |
 | [kestra-io/kestra](https://github.com/kestra-io/kestra) 🚀 | 30,362 🌟 | [#22703](https://github.com/kestra-io/kestra/pull/22703)<br>[#22558](https://github.com/kestra-io/kestra/pull/22558)<br>[#22428](https://github.com/kestra-io/kestra/pull/22428) | $`\color{green}\textsf{+27}`$ $`\color{red}\textsf{-2}`$<br>$`\color{green}\textsf{+9}`$ $`\color{red}\textsf{-15}`$<br>$`\color{green}\textsf{+98}`$ $`\color{red}\textsf{-1}`$ |
 | [xerj-org/xerj](https://github.com/xerj-org/xerj) 🚀 | 21,526 🌟 | [#3255](https://github.com/xerj-org/xerj/pull/3255)<br>[#3062](https://github.com/xerj-org/xerj/pull/3062) | $`\color{green}\textsf{+116}`$ $`\color{red}\textsf{-4}`$<br>$`\color{green}\textsf{+293}`$ $`\color{red}\textsf{-15}`$ |
