@@ -1,5 +1,16 @@
 Hi, I'm Shu.
 
+I built [Seraph](https://github.com/shu-chen-dot-ca/Seraph), a harness for making
+high-quality, verifiable pull requests to widely used open-source projects.
+Every PR below is linked, so you can read the maintainers' reviews yourself.
+
+Most of the closed PRs I closed myself, after realizing I had picked the wrong
+repo or issue.
+
+I'm looking for a summer co-op for May–August 2027 before I graduate in Dec 2027, anywhere in North America.
+
+I value autonomy, learning from the best people in their fields, and taking responsibility for projects that shape the world.
+
 <!-- merged-prs:start -->
 [Seraph](https://github.com/shu-chen-dot-ca/Seraph) has merged [152 PRs](https://github.com/search?q=is%3Apr+is%3Amerged+is%3Apublic+author%3Ashu-chen-dot-ca+-user%3Ashu-chen-dot-ca&type=pullrequests) across 44 repositories with a merge rate of 87% ([56 open](https://github.com/search?q=is%3Apr+is%3Aopen+is%3Apublic+author%3Ashu-chen-dot-ca+-user%3Ashu-chen-dot-ca&type=pullrequests), [23 closed](https://github.com/search?q=is%3Apr+is%3Aclosed+is%3Aunmerged+is%3Apublic+author%3Ashu-chen-dot-ca+-user%3Ashu-chen-dot-ca&type=pullrequests))
 
