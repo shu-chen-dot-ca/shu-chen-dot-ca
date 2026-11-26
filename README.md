@@ -5,13 +5,7 @@ I built [Seraph](https://github.com/shu-chen-dot-ca/Seraph), a harness for makin
 high-quality, verifiable pull requests to widely used open-source projects.
 Every PR below is linked, so you can read the maintainers' reviews yourself.
 
-Most of the closed PRs I closed myself, after realizing I had picked the wrong
-repo or issue.
-
-
-I'm looking for a summer co-op for May–August 2027 before I graduate in Dec 2027, anywhere in North America.
-I value autonomy, learning from the best people in their fields, and taking responsibility for projects that shape the world.
-
+Most of the closed PRs I closed myself, after realizing I had picked the wrong repo or issue.
 
 
 <!-- merged-prs:start -->
